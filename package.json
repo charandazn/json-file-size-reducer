@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "jszip": "^3.10.1"
+    "zlib": "^1.0.5"
   }
 }
